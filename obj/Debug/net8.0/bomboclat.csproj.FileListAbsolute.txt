@@ -1,0 +1,14 @@
+C:\Users\Eka\source\repos\bomboclat\bin\Debug\net8.0\bomboclat.exe
+C:\Users\Eka\source\repos\bomboclat\bin\Debug\net8.0\bomboclat.deps.json
+C:\Users\Eka\source\repos\bomboclat\bin\Debug\net8.0\bomboclat.runtimeconfig.json
+C:\Users\Eka\source\repos\bomboclat\bin\Debug\net8.0\bomboclat.dll
+C:\Users\Eka\source\repos\bomboclat\bin\Debug\net8.0\bomboclat.pdb
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.AssemblyInfoInputs.cache
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.AssemblyInfo.cs
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.csproj.CoreCompileInputs.cache
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.dll
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\refint\bomboclat.dll
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.pdb
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\bomboclat.genruntimeconfig.cache
+C:\Users\Eka\source\repos\bomboclat\obj\Debug\net8.0\ref\bomboclat.dll
